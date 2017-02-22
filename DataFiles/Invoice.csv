@@ -1,4 +1,4 @@
-﻿maverick,origin,matched,payment_window,transfer_window,cycle_time,review,row_approve,on_time
+mav,org,mat,pym_win,tr_win,cyc_tim,rev,row_app,on_time
 1,1,0,5,-2,6,0,6,Late
 1,4,0,-3,-8,2,0,2,Late
 1,4,0,4,-1,2,0,2,Late
